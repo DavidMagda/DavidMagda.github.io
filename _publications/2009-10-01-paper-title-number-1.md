@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "The Integration of Computational Thinking and Making in the Classroom"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-the-integration-of-computational-thinking-and-making-in-the-classroom
+excerpt: 'Maker-based learning and Computational Thinking (CT) have increased in popularity in formal educational settings over the past decade. Particularly, the combination of CT and making seem to hold promise for providing opportunities for students to learn and use computing concepts outside of computing courses. This paper presents findings from a two year study of the integration of computational making into 5th and 6th grade science classrooms. Students participated in computational making interventions in which they programmed Arduino microcontrollers to create scientific models of concepts that aimed to help them engage with the science content while learning CT and making skills. In this paper, we explore the differences between the desired computing learning progressions, students' performance on assessments, and perceptions of computer science to answer: To what extent are middle school students able to learn computing through computing integrated science curriculum? We observed that the programming concepts taught were largely dependent on the needs of the science and making project. Our findings suggest that while students had opportunities to learn and use programming concepts, their performance on assessments was between 15% and 78% correct for conceptual and applied questions and their programming self-efficacy and their perceptions of computer science were lower than desired. We discuss the implications of these findings and the factors that impact the integration of CT in core disciplines and the challenges this presents as we aim to use integration approaches to effectively teach computing outside of computing courses and to broaden participation in computing.'
+date: 2024-03-07
+venue: 'SIGCSE 2024'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3626252.3630948'
+citation: 'David Magda, Christina Gardner-McCune, Yerika Jimenez, Sharon Chu, and Abhishek Kulkarni. 2024. The Integration of Computational Thinking and Making in the Classroom. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 778–784. https://doi.org/10.1145/3626252.3630948'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
